@@ -52,3 +52,9 @@ textarea {
   height:70px;
   resize: vertical;
 }
+
+@media (max-width: 400px){
+  img {
+    width:100%;
+  }
+}
