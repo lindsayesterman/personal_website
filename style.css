@@ -1,0 +1,54 @@
+html {
+  background-color:whitesmoke;
+}
+
+ul {
+  text-align:right;
+  list-style:none;
+}
+
+ul li {
+  display:inline-block;
+  margin: 15px;
+}
+
+h1 {
+  text-align:center;
+  color:#99cfe0;
+  font-size: 41px;
+  margin-top:40px;
+  font-style: italic;
+}
+
+h2, p, ol{
+  margin: 20px auto;
+  width: 50%;
+}
+
+img {
+  display:block;
+  margin: 0 auto;
+  width: 600px;
+  height: 620px;
+}
+
+a{
+  text-decoration:none;
+  color:blue;
+}
+
+a:hover {
+  color:darkblue;
+}
+
+input, textarea, button {
+  display: block;
+  margin: 20px auto;
+  width:50%;
+  height:30px;
+}
+
+textarea {
+  height:70px;
+  resize: vertical;
+}
